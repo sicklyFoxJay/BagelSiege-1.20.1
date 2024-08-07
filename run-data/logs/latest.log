@@ -1,0 +1,31 @@
+[06Aug2024 19:59:29.302] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\ruian\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.2.17, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, bagelsiege, --all, --output, D:\BagelSiege Mod\src\generated\resources, --existing, D:\BagelSiege Mod\src\main\resources]
+[06Aug2024 19:59:29.305] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.8 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[06Aug2024 19:59:29.400] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[06Aug2024 19:59:29.445] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/ruian/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[06Aug2024 19:59:29.704] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\ruian\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.2.17\4a403a257bf5240c4c8002d15d910fdc8a117ddc\javafmllanguage-1.20.1-47.2.17.jar is missing mods.toml file
+[06Aug2024 19:59:29.707] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\ruian\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.2.17\94d20fdf4631429052f84a8d75a995a91f7259ab\lowcodelanguage-1.20.1-47.2.17.jar is missing mods.toml file
+[06Aug2024 19:59:29.710] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\ruian\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.2.17\d546e4c979f6802194438a1a6b87eae9ff358acd\mclanguage-1.20.1-47.2.17.jar is missing mods.toml file
+[06Aug2024 19:59:29.713] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\ruian\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.2.17\796a3d575471f5171a1adf1db266f1122e3de780\fmlcore-1.20.1-47.2.17.jar is missing mods.toml file
+[06Aug2024 19:59:29.771] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[06Aug2024 19:59:31.060] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\ruian\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, bagelsiege, --all, --output, D:\BagelSiege Mod\src\generated\resources, --existing, D:\BagelSiege Mod\src\main\resources]
+[06Aug2024 19:59:31.538] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [bagelsiege]
+[06Aug2024 19:59:35.378] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.17, for MC 1.20.1 with MCP 20230612.114412
+[06Aug2024 19:59:35.383] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.17 Initialized
+[06Aug2024 19:59:35.832] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/ruian/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.17_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.2.17_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[06Aug2024 19:59:35.833] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/ruian/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.17_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.2.17_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[06Aug2024 19:59:36.010] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[06Aug2024 19:59:36.117] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 99 ms
+[06Aug2024 19:59:36.117] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[06Aug2024 19:59:36.148] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 30 ms
+[06Aug2024 19:59:36.149] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: bagelsiege
+[06Aug2024 19:59:36.235] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: bagelsiege finished after 85 ms
+[06Aug2024 19:59:36.235] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: bagelsiege
+[06Aug2024 19:59:36.262] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: bagelsiege finished after 27 ms
+[06Aug2024 19:59:36.263] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:block mod id bagelsiege
+[06Aug2024 19:59:36.282] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:block mod id bagelsiege finished after 18 ms
+[06Aug2024 19:59:36.282] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Tags for minecraft:item mod id bagelsiege
+[06Aug2024 19:59:36.284] [main/INFO] [net.minecraft.data.DataGenerator/]: Tags for minecraft:item mod id bagelsiege finished after 1 ms
+[06Aug2024 19:59:36.284] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Global Loot Modifiers : bagelsiege
+[06Aug2024 19:59:36.291] [main/INFO] [net.minecraft.data.DataGenerator/]: Global Loot Modifiers : bagelsiege finished after 6 ms
+[06Aug2024 19:59:36.291] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 282 ms
+[06Aug2024 19:59:36.297] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 106, old count: 104, new count: 107, removed stale: 0, written: 2

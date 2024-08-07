@@ -1,0 +1,4 @@
+// 1.20.1	2024-07-11T19:50:02.1851588	Loot Tables
+64cba8f339fc164c1a2a34f2c9f9e0faa68ed054 data/bagelsiege/loot_tables/blocks/bagelstar_ore.json
+e6f44661e9a8ec4dc546a641b7578106e68d4c44 data/bagelsiege/loot_tables/blocks/crumbled_bagel_block.json
+b2182eda025d439356060be585dcb6d59b32e6c0 data/bagelsiege/loot_tables/blocks/hard_crumbled_bagel.json

@@ -1,0 +1,10 @@
+{
+  "bagel_music": {
+    "sounds": [
+      {
+        "name": "bagelsiege:bagel_music",
+        "stream": true
+      }
+    ]
+  }
+}

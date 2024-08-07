@@ -1,0 +1,8 @@
+// 1.20.1	2024-07-12T04:04:55.1455079	Global Loot Modifiers : bagelsiege
+2f92335c64b829e4e038528573bd6a82ecee4370 data/bagelsiege/loot_modifiers/bagel_from_butcher.json
+d85f525c7e6963ca6992304bda1f3d2166ee96e4 data/bagelsiege/loot_modifiers/bagel_from_plains_house.json
+ddebcbedd229f4c96f105d82d54442988e86d50d data/bagelsiege/loot_modifiers/bagel_from_savanna_house.json
+660d9e81d5e83466ecaa80e21076717508c991f3 data/bagelsiege/loot_modifiers/bagel_from_snowy_house.json
+10f8f0df0fc2977a41c849cd5065c73a698abbb5 data/bagelsiege/loot_modifiers/bagel_from_sus_sand.json
+9ebe43719928ba1d073f6be65ef1a9a5fa315202 data/bagelsiege/loot_modifiers/bagel_from_taiga_house.json
+ec370417de168892b3bfff87ba9a8f4121bfeb89 data/forge/loot_modifiers/global_loot_modifiers.json

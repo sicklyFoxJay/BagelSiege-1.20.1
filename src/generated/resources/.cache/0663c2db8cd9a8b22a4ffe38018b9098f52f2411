@@ -1,0 +1,10 @@
+// 1.20.1	2024-07-11T19:50:02.1821585	Block States: bagelsiege
+779aad3c7c1a7413425fd9c09438337269c2b6eb assets/bagelsiege/blockstates/bagelstar_ore.json
+6917f1c59b548ee474e7800f750f9a72e4149b74 assets/bagelsiege/blockstates/crumbled_bagel_block.json
+83f5990cdcfa8aeef23bfd2e69e56acdc6a1eb3c assets/bagelsiege/blockstates/hard_crumbled_bagel.json
+aaac3345f94ba9902507696b944289a3ab9bef08 assets/bagelsiege/models/block/bagelstar_ore.json
+6860f1cc009fe281bc23097e2afa8a9c6717f4ac assets/bagelsiege/models/block/crumbled_bagel_block.json
+7c7127a2e1b4086dbb0d98c13c3a593a9715be84 assets/bagelsiege/models/block/hard_crumbled_bagel.json
+c327f4384fc61e00436b4506388dfdfd0fd4b5cf assets/bagelsiege/models/item/bagelstar_ore.json
+df612a1ea716697b2cba0f9c6e2d895d2fd0225a assets/bagelsiege/models/item/crumbled_bagel_block.json
+55365f2c203d6c373a789b98e1bcde1ce2c0e4c6 assets/bagelsiege/models/item/hard_crumbled_bagel.json

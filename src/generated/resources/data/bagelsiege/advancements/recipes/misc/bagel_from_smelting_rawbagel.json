@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_rawbagel": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bagelsiege:rawbagel"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "bagelsiege:bagel_from_smelting_rawbagel"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_rawbagel",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "bagelsiege:bagel_from_smelting_rawbagel"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:water_bucket"
+    },
+    "E": {
+      "tag": "forge:eggs"
+    },
+    "S": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "W": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "WSW",
+    "EBE",
+    "WWW"
+  ],
+  "result": {
+    "count": 8,
+    "item": "bagelsiege:rawbagel"
+  },
+  "show_notification": true
+}

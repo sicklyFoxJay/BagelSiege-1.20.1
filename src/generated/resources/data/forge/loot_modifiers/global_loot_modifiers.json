@@ -1,0 +1,11 @@
+{
+  "entries": [
+    "bagelsiege:bagel_from_butcher",
+    "bagelsiege:bagel_from_sus_sand",
+    "bagelsiege:bagel_from_snowy_house",
+    "bagelsiege:bagel_from_savanna_house",
+    "bagelsiege:bagel_from_plains_house",
+    "bagelsiege:bagel_from_taiga_house"
+  ],
+  "replace": false
+}

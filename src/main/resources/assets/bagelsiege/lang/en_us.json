@@ -1,0 +1,22 @@
+{
+  "item.bagelsiege.bagel": "Bagel",
+  "item.bagelsiege.rawbagel": "Raw Bagel",
+  "creativetab.bagelsiege_tab": "BagelSiege",
+  "item.bagelsiege.bagel_helmet": "Helm of the Bagel Lord",
+  "item.bagelsiege.bagel_chestplate": "Chestplate of the Bagel Lord",
+  "item.bagelsiege.bagel_leggings": "Bagel Lord's Wear No Pants",
+  "item.bagelsiege.bagel_boots": "Clogs of the Bagel Lord",
+  "item.bagelsiege.bagelstar": "Bagel Star",
+  "item.bagelsiege.bagel_pickaxe": "Bagel Pickaxe",
+  "item.bagelsiege.bagel_axe": "Bagel Axe",
+  "item.bagelsiege.bagel_shovel": "Bagel Shovel",
+  "item.bagelsiege.bagel_sword": "Bagel Sword",
+  "item.bagelsiege.bagel_hoe": "Bagel Hoe",
+  "item.bagelsiege.bagel_music_music_disc":  "Bagel Siege Music Disc",
+  "item.bagelsiege.bagel_music_music_disc.desc":  "JayUshinatta - Long Days Ahead",
+
+  "block.bagelsiege.crumbled_bagel_block": "Crumbled Bagel",
+  "block.bagelsiege.Hard_crumbled_bagel": "Hard Crumbled Bagel",
+  "block.bagelsiege.bagelstar_ore": "Bagel Star Ore"
+
+}

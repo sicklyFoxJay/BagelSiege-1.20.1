@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_bagelstar_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "bagelsiege:bagelstar_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "bagelsiege:bagelstar_from_smelting_bagelstar_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_bagelstar_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "bagelsiege:bagelstar_from_smelting_bagelstar_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

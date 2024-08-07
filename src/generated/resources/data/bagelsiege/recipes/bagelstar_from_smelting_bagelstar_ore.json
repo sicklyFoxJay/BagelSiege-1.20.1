@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.25,
+  "group": "bagelstar",
+  "ingredient": {
+    "item": "bagelsiege:bagelstar_ore"
+  },
+  "result": "bagelsiege:bagelstar"
+}

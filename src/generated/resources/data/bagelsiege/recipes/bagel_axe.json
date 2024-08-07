@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "H": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "bagelsiege:bagelstar"
+    }
+  },
+  "pattern": [
+    "SS ",
+    "SH ",
+    " H "
+  ],
+  "result": {
+    "item": "bagelsiege:bagel_axe"
+  },
+  "show_notification": true
+}
